@@ -9,7 +9,7 @@ BLUE = "#313552"
 RED = "#B8405E"
 YELLOW = "#2EB086"
 LIGHT = "#EEE6CE"
-score = 0
+
 
 
 
